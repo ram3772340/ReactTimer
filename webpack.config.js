@@ -29,6 +29,7 @@ module.exports = {
       Countdown: path.resolve(process.cwd(), 'app/components/Countdown.jsx'),
       Timer: path.resolve(process.cwd(), 'app/components/Timer.jsx'),
       Clock: path.resolve(process.cwd(), 'app/components/Clock.jsx'),
+      CountdownForm: path.resolve(process.cwd(), 'app/components/CountdownForm.jsx'),
     },
     extensions: ['', '.js', '.jsx']
   },
